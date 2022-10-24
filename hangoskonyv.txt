@@ -1,0 +1,68 @@
+000.mp3 --> bevezető, fülszöveg --> 0:00 -tól 0:14 másodpercig
+001.mp3 --> Fejezet: 1. "Sötétedés sugarakkal" fejezet --> 0:00-tól 
+001.mp3 --> gyenge háttérbeszéd --> 9:28-tól 10:00-ig
+001.mp3 --> gyenge háttérbeszéd --> 39:06-tól 40:25-ig
+001.mp3 --> gyenge háttérbeszéd --> 46:29-től 47:43-ig
+002.mp3 --> gyenge háttérbeszéd --> 21:10-től 25:50-ig
+002.mp3 --> közepes háttérbeszéd --> 37:15-től 37:40-ig        
+003.mp3 --> gyenge háttérbeszéd --> 17:27-től 19:30-ig 
+003.mp3 --> Fejezet: 2. "Győztesek között" fejezet--> 12:00-től 
+003.mp3 --> gyenge háttérbeszéd --> 22:18-tól 25:06-ig                
+003.mp3 --> gyenge háttérbeszéd --> 27:22-től 30:11-ig 
+004.mp3 --> gyenge háttérbeszéd --> 27:09-től 28:23-ig 
+004.mp3 --> Fejezet: 3. "Az elsiratott jövő" fejezet --> 42:04-től  
+004.mp3 --> gyenge háttérbeszéd --> 41:00-tól 44:10-ig
+004.mp3 --> gyenge háttérbeszéd --> 45:03-tól 47:12-ig
+005.mp3 --> gyenge háttérbeszéd --> 7:47-től 10:02-ig
+005.mp3 --> gyenge háttérbeszéd --> 19:23-tól 21:40-ig
+005.mp3 --> gyenge háttérbeszéd --> 47:06-tól 49:39-ig
+006.mp3 --> gyenge háttérbeszéd --> 7:37-től 10:10-IG
+006.mp3 --> Fejezet 4. "Tanár és tanítvány" fejezet --> 5:50-től 
+006.mp3 --> Fejezet 5. "Mi egyesít? Ami elválaszt" fejezet --> 29:58-tól
+007.mp3 --> közepes háttérbeszéd --> 20:20-től 20:56-ig
+007.mp3 --> Fejezet 6. "Cimerpajzstan" fejezet --> 25:46-tól
+007.mp3 --> gyenge háttérbeszéd --> 24:06-tól 26:00-ig 
+008.mp3 --> gyenge háttérbeszéd --> 45:37-től 47_46-ig
+009.mp3 --> gyenge háttérbeszéd --> 23:45-től 27:32-ig
+009.mp3 --> gyenge háttérbeszéd --> 51:47-től 52:00-ig                                          
+010.mp3 --> közepes háttérbeszéd --> 1:40-től 4:32-ig
+010.mp3 --> gyenge háttérbeszéd --> 25:20-tól 28:20-ig
+010.mp3 --> gyenge háttérbeszéd --> 31:00-tól 31:20-ig
+010.mp3 --> gyenge háttérbeszéd --> 34:18-tól 36:00-ig
+010.mp3 --> hangos recsegés --> 51:40-től 52:00-ig
+011.mp3 --> gyenge háttérbeszéd --> 19:28-tól 21:16-ig
+011.mp3 --> gyenge háttérbeszéd --> 29:50-től 33:01-ig
+012.mp3 --> közepes háttérbeszéd --> 46:00-tól 49:00-ig
+013.mp3 --> közepes háttérbeszéd --> 1:40-től 2:30-ig 
+013.mp3 --> gyenge háttérbeszéd --> 7:55-től 12:31-Ig
+013.mp3 --> erős felvétel hiba!!! --> 13:55-től 14:10-ig 
+013.mp3 --> gyenge háttérbeszéd --> 17:24-től 28:34-ig
+013.mp3 --> gyenge háttérbeszéd --> 49:40-től 54:10-ig
+014.mp3 --> hangos recsegés/ beszéd --> 17:00-tól  23:00-ig 
+014.mp3 --> gyenge háttérbeszéd --> 51:01 -től 54:37-ig 
+015.mp3 --> gyenge háttérbeszéd --> 1:29-től 8:39-ig
+015.mp3 --> gyenge háttérbeszéd --> 12:42-től 19:05-ig 
+015.mp3 --> közepes  háttérbeszéd --> 21:30-tól 26:46-ig 
+016.mp3 --> nagyon hangos fütyülés!!!! --> 14:48-tól 14:55-ig                                                                                
+016.mp3 --> hanghiba duplázás, beszéd ismétlés --> 16:35-től 17:42-ig 
+016.mp3 --> recsegés, ropogás --> 23:15-től 23:30-ig 
+016.mp3 --> recsegés, ropogás --> 24:40-től 25:55-ig                                                                            
+016.mp3 --> recsegés, ropogás --> 28:55-től 29:05-ig
+016.mp3 --> recsegés, ropogás --> 35:20-tól 35:40-ig 
+016.mp3 --> gyenge háttérbeszéd --> 41:42-től 50:05-ig
+017.mp3 --> gyenge háttérbeszéd --> 0:25-től 7:53-ig
+017.mp3 --> hangos háttérbeszéd --> 1:05-től 1:13-ig
+017.mp3 --> gyenge háttérbeszéd --> 3:47-től 6:35-ig 
+017.mp3 --> gyenge háttérbeszéd --> 11:01 12:37-ig
+017.mp3 --> gyenge háttérbeszéd --> 20:47-tól 28:54-ig 
+017.mp3 --> gyenge háttérbeszéd --> 44:24-től 46:06-ig 
+018.mp3 --> gyenge háttérbeszéd --> 17:12-től 20:51-ig
+018.mp3 --> gyenge háttérbeszéd --> 25:10-től 27:51-ig 
+021.mp3 --> gyenge háttérbeszéd --> 16:51-től 
+023.mp3 --> gyenge háttérbeszéd --> 18:41-től 19:22-ig 
+026.mp3 --> 
+<<< Vége >>>
+
+
+ 6. file --> 30:01 nál tartunk
+
